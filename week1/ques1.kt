@@ -6,4 +6,4 @@ fun main() {
     println(message)
 }
 
-// solution link: https://play.kotlinlang.org/embed?short=XLea-VUJ2&theme=darcula
+solution link: https://play.kotlinlang.org/embed?short=XLea-VUJ2&theme=darcula
